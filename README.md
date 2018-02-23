@@ -1,1 +1,1 @@
-# my collection if Python notebooks for Data Engineering work.
+# My collection of Python notebooks for Data Engineering work.
