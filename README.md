@@ -1,1 +1,1 @@
-# My collection of Python notebooks for Data Engineering work.
+# Python notebooks and reports of Data Mining capstone project at UIUC.
